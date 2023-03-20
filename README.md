@@ -1,12 +1,12 @@
-API GITHUB
+# API GITHUB
 
 <img src="https://user-images.githubusercontent.com/106337542/226425225-264a3ffe-41a1-413e-9722-978285e8c699.gif" height="70%" width="70%"/>
 
 Aplicação que consome API GitHub com o curso Dev Samurai.
 
 Aprofundamento dos conceitos em:
-*CRA Templates
-*Styled components
-*API
-*Rotas (múltiplas telas)
-*Estrutura de múltiplos componentes (arquitetura)
+* CRA Templates
+* Styled components
+* API
+* Rotas (múltiplas telas)
+* Estrutura de múltiplos componentes (arquitetura)
